@@ -1,6 +1,6 @@
 title: Basic_theoretical_knowledge
 description: 计算机基础理论知识：数据结构、操作系统、计算机网络、数据库......
-theme: null
+theme: jekyll-rtd-theme
 
 # debug:
 #   compress: true
