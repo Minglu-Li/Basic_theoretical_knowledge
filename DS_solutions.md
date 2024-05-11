@@ -53,7 +53,7 @@
 
 ![image-20230310153821158](DS_solutions.assets\image-20230310153821158.png)
 
-![image-20230310153909604](\408\DS_solutions.assets\image-20230310153909604.png)
+![image-20230310153909604](.\DS_solutions.assets\image-20230310153909604.png)
 
 ![image-20230310153919186](DS_solutions.assets\image-20230310153919186.png)
 
@@ -63,7 +63,7 @@
 
 ![image-20230310155110534](DS_solutions.assets\image-20230310155110534.png)
 
-![image-20230310155123190](408\DS_solutions.assets\image-20230310155123190.png)
+![image-20230310155123190](.\DS_solutions.assets\image-20230310155123190.png)
 
 ## 1.2 算法和算法评价
 
